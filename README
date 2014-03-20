@@ -1,0 +1,4 @@
+Also known as the gay speed dating app. This ruby program reads a list
+of names from a file and prints a round-robin pairingschedule for the
+given names. The input file should have one name per line. The name of
+the input file is specified as a command-line argument.
